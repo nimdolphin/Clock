@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(to left, violet, orange);
+}
+
+.clock {
+  font-family: "AbrilFatfaceRegular";
+  color: rgb(207, 18, 151);
+  font-size: 60pt;
+  text-align: center;
+  margin: auto;
+  padding-top: 20%;
+}
+
+@font-face {
+  font-family: "AbrilFatfaceRegular";
+  src: url("./fonts/AbrilFatfaceRegular.ttf");
+}
